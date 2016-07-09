@@ -1,4 +1,7 @@
 
+// 将第6章前移至第4章不会影响参考文献排序
+// 所以，我仍然用chinagraph版本的参考文献排序
+
 Igarashi1999SG
 [1] Takeo Igarashi, Satoshi Matsuoka, Hidehiko Tanaka. Teddy: a sketching interface for 3D freeform design. Proceedings of the 26th Annual Conference on Computer Graphics and Interactive Techniques. New York, NY, USA. 1999: 409-416.
 
