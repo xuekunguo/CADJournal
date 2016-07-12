@@ -3,8 +3,19 @@
 // 2. 文献格式需要按CAD journal的格式修改。
 
 
+//////////////////////////
+接老板意见添加的中文文献：
 
+[20] Zeng Long, Liu Yongjin, Zhang Dongliang. Feature-Preserved Contour Editing for 3D Printing[J]. Journal of Computer-Aided Design & Computer Graphics, 2015, 27(6): 974-983(in Chinese)
+(曾龙，刘永进，张东亮。面向三维打印的特征驱动轮廓线编辑方法[J]。计算机辅助设计与图形学学报，2015，27（6）：974-983)
 
+[21] Hu Ruizhen,Huang Hui. Recent Progress in 3D Printing Inspired Fabrication Optimization[J]. Journal of Computer-Aided Design & Computer Graphics, 2015, 27(6): 961-967(in Chinese)
+(胡瑞珍，黄惠。3D打印启发下的模型实例化优化研究综述[J]。计算机辅助设计与图形学学报，2015，27（6）：961-967)
+
+[22] Tong Jing, Zhang Luosheng, Hou Songlin, Fan Yuhang, and Li Tianqun. Low-Cost Personalized Chocolate 3D Printing Platform[J]. Journal of Computer-Aided Design & Computer Graphics, 2015, 27(6): 984-991(in Chinese)
+(童晶，张洛声，侯松林，樊宇航，李天群。低成本个性化巧克力三维打印平台[J]。计算机辅助设计与图形学学报，2015，27（6）：984-991)
+
+/////////////////////
 Igarashi1999SG
 [1] Takeo Igarashi, Satoshi Matsuoka, Hidehiko Tanaka. Teddy: a sketching interface for 3D freeform design[C]//Proceedings of the 26th Annual Conference on Computer Graphics and Interactive Techniques. New York, NY, USA: ACM Press, 1999: 409-416.
 
@@ -62,20 +73,31 @@ Funkhouser2004
 YuZhoXuShiBaoGuoShu04
 [19] Yizhou Yu and Kun Zhou and Dong Xu and Xiaohan Shi and Hujun Bao and Baining Guo and Shum, Heung-Yeung. Mesh editing with poisson-based gradient field manipulation[J]. ACM Transactions on Graphics 2004, 23(3): 644-651.
 
+
+[20] Zeng Long, Liu Yongjin, Zhang Dongliang. Feature-Preserved Contour Editing for 3D Printing[J]. Journal of Computer-Aided Design & Computer Graphics, 2015, 27(6): 974-983(in Chinese)
+(曾龙，刘永进，张东亮。面向三维打印的特征驱动轮廓线编辑方法[J]。计算机辅助设计与图形学学报，2015，27（6）：974-983)
+
+[21] Hu Ruizhen,Huang Hui. Recent Progress in 3D Printing Inspired Fabrication Optimization[J]. Journal of Computer-Aided Design & Computer Graphics, 2015, 27(6): 961-967(in Chinese)
+(胡瑞珍，黄惠。3D打印启发下的模型实例化优化研究综述[J]。计算机辅助设计与图形学学报，2015，27（6）：961-967)
+
+[22] Tong Jing, Zhang Luosheng, Hou Songlin, Fan Yuhang, and Li Tianqun. Low-Cost Personalized Chocolate 3D Printing Platform[J]. Journal of Computer-Aided Design & Computer Graphics, 2015, 27(6): 984-991(in Chinese)
+(童晶，张洛声，侯松林，樊宇航，李天群。低成本个性化巧克力三维打印平台[J]。计算机辅助设计与图形学学报，2015，27（6）：984-991)
+
+
 Kazhdan2005SGP
-[20] Kazhdan, Michael. Reconstruction of solid models from oriented point sets[C]//Proceedings of the Third Eurographics Symposium on Geometry Processing. Vienna, Austria: The Eurographics Association, 2005: 73-82.
+[23] Kazhdan, Michael. Reconstruction of solid models from oriented point sets[C]//Proceedings of the Third Eurographics Symposium on Geometry Processing. Vienna, Austria: The Eurographics Association, 2005: 73-82.
 
 ZhoPanZor13
-[21] Qingnan Zhou and Julian Panetta and Denis Zorin. Worst-case structural analysis[J]. ACM Transactions on Graphics 2013, 32(4): Article No. 137.
+[24] Qingnan Zhou and Julian Panetta and Denis Zorin. Worst-case structural analysis[J]. ACM Transactions on Graphics 2013, 32(4): Article No. 137.
 
 Wang2005CISE
-[22] Wang, Charlie C and Tang, Kai. Optimal boundary triangulations of an interpolating ruled surface[J]. Journal of Computing and Information Science in Engineering, 2005, 5(4): 291-301.
+[25] Wang, Charlie C and Tang, Kai. Optimal boundary triangulations of an interpolating ruled surface[J]. Journal of Computing and Information Science in Engineering, 2005, 5(4): 291-301.
 
 Han2010
-[23] Han, Shuchu and Xia, Jiazhi and He, Ying. Hexahedral shell mesh construction via volumetric polycube map[C]//Proceedings of ACM Symposium on Solid and Physical Modeling. New York, NY, USA: ACM Press, 2010: 127-136.
+[26] Han, Shuchu and Xia, Jiazhi and He, Ying. Hexahedral shell mesh construction via volumetric polycube map[C]//Proceedings of ACM Symposium on Solid and Physical Modeling. New York, NY, USA: ACM Press, 2010: 127-136.
 
 BarPop07
-[24] Ilya Baran and Jovan Popovic. Automatic rigging and animation of 3D characters[J]. ACM Transactions on Graphics, 2007, 26(3): Article No. 72.
+[27] Ilya Baran and Jovan Popovic. Automatic rigging and animation of 3D characters[J]. ACM Transactions on Graphics, 2007, 26(3): Article No. 72.
 
 Kalogerakis2010SG
-[25] Kalogerakis, Evangelos and Hertzmann, Aaron and Singh, Karan. Learning 3D mesh segmentation and labeling[J]. ACM Transactions on Graphics, 2010, 29(4): 102:1-102:12.
+[28] Kalogerakis, Evangelos and Hertzmann, Aaron and Singh, Karan. Learning 3D mesh segmentation and labeling[J]. ACM Transactions on Graphics, 2010, 29(4): 102:1-102:12.
